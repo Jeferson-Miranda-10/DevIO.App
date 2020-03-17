@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using DevIO.App.Models;
 using Microsoft.AspNetCore.Mvc;
-using DevIO.App.Models;
+using System.Diagnostics;
 
 namespace DevIO.App.Controllers
 {
